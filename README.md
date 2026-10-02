@@ -1,6 +1,5 @@
 ## Привет 👋
-<div id="header" align="center"
-<img 
-  src="https://github.com/user-attachments/assets/51f5afa3-b158-4c38-9e31-af2836eafc43">
-</div>
+<p align="center">
+  <img src="C:\Users\NikSt\Desktop\image\Россия.png" width="400px" alt="Описание">
+</p>
 
